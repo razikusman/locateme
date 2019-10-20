@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963009188813",
+    "firebase_url": "https://locateme2-b92e7.firebaseio.com",
+    "project_id": "locateme2-b92e7",
+    "storage_bucket": "locateme2-b92e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963009188813:android:028a47e06a094657",
+        "android_client_info": {
+          "package_name": "com.example.locateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963009188813-oijdklorpllphnts21r26kar14lo5l2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locateme",
+            "certificate_hash": "ff91409153e2b1ab554337fc38c221521e26180e"
+          }
+        },
+        {
+          "client_id": "963009188813-t125e6cehopdrp4to5cu0b0k1brnmaeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQe2wMCr4h6szEcdogL4NohPOulhffpxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963009188813-t125e6cehopdrp4to5cu0b0k1brnmaeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
